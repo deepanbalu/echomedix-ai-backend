@@ -8,6 +8,10 @@ requests
 joblib
 sqlalchemy 
 mysql-connector-python 
+bcrypt 
+pyjwt
+jose
 xgboost
 google-generativeai
+pytesseract
 python-multipart
