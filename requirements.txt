@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+pydantic 
+requests
+joblib
+sqlalchemy 
+mysql-connector-python 
+xgboost
+google-generativeai
+python-multipart
